@@ -1,0 +1,12 @@
+main: me.GuitarXpress.PlayerMounts.Main
+name: PlayerMounts
+version: 1.2.5
+author: GuitarXpress
+api-version: 1.16
+description: Mount your friends!
+
+commands:
+   mounts:
+      aliases: [playermounts, plym]
+      usage: /<command>
+   
